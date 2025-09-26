@@ -5,6 +5,6 @@ export class HealthCheckController {
     
 @Get()
 healthCheck() {
-    return 'Client Gateway is up and running!!';
+    return 'Payments Webhook is up and running!!';
   }
 }
